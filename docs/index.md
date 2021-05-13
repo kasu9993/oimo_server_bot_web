@@ -49,7 +49,7 @@
 <img src="img/img7_.png" width="300">
 <img src="img/img9_.png" width="300">
 <img src="img/img10_.png" width="300">
-<br>危険人物<br>
+<br>【危険人物】<br>
 <img src="img/img11_.png" width="300">
 <img src="img/img12_.png" width="300">
 <img src="img/img8_.png"  width="300">
