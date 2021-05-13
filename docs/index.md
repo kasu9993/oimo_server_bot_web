@@ -40,11 +40,11 @@
 ```
 !omikuji
 ```
-### 例
+## 例
 1.おみくじを引く<br>
 <img src="img/img5.png" width="300"><br>
 
-### おみくじを使った人の反応
+## おみくじを使った人の反応
 <img src="img/img6_.png" width="300">
 <img src="img/img7_.png" width="300">
 <img src="img/img9_.png" width="300">
@@ -57,8 +57,22 @@
 <img src="img/img15_.png" width="300">
 <br>
 おみくじへの暴言はやめてください!!!親が泣いています...
- 
+<br>
 
-## 機能募集
+# その他
+
+## 追加実装予
+
+- 時報
+- 計算
+- リマインダー
+- アラーム音の充実
+- おみくじVersion UP!
+
+## 追加機能募集
 これから勉強ついでに機能がゆっくり増えていくかもしれない...仕事が忙しくならなければ...
+
+[お題箱](https://odaibako.net/u/kkumt93)
+
+
 
