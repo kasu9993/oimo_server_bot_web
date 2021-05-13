@@ -2,6 +2,7 @@
 # おいもサーバーBotの使い方
 
 # 招待方法
+おいもサーバー以外に招待する方は個人的にリンクを配布しますのでDMで申してください。
 
 # 機能一覧
 コマンドはすべて半角で入力する。
@@ -43,9 +44,21 @@
 1.おみくじを引く<br>
 <img src="img/img5.png" width="300"><br>
 
-### おみくじを使った方の反応
+### おみくじを使った人の反応
+<img src="img/img6_.png" width="300">
+<img src="img/img7_.png" width="300">
+<img src="img/img9_.png" width="300">
+<img src="img/img10_.png" width="300">
+<br>危険人物<br>
+<img src="img/img11_.png" width="300">
+<img src="img/img12_.png" width="300">
+<img src="img/img8_.png"  width="300">
+<img src="img/img14_.png" width="300">
+<img src="img/img15_.png" width="300">
+<br>
+おみくじへの暴言はやめてください!!!親が泣いています...
+ 
 
+## 機能募集
+これから勉強ついでに機能がゆっくり増えていくかもしれない...仕事が忙しくならなければ...
 
-### 例
-
-## 募集
