@@ -54,6 +54,12 @@
 - 大凶...16.0%
 - ????...4.00%
 
+## おみくじ illustrator
+- [いぬいぬのふわ](https://twitter.com/inuinu_0)
+- [ゲラみ](https://twitter.com/nogugera)
+- [おいも](https://twitter.com/oimosan1125)
+
+
 ## 例
 1. おみくじを引く<br>
 <img src="img/img5.png" width="300"><br>
