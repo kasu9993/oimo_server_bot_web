@@ -73,11 +73,12 @@
 おみくじへの暴言はやめてください!!!親が泣いています...
 <br>
 
-## おみくじ illustrator
+## おみくじイラスト功労者
 - [いぬいぬのふわ](https://twitter.com/inuinu_0)
 - [ゲラみ](https://twitter.com/nogugera)
 - [おいも](https://twitter.com/oimosan1125)
-
+- [言寺子お姉さんのエプロン](https://twitter.com/koko_suki_2434_)
+- [やまは／ぱうろ](https://twitter.com/ymh_DM0M_Paw6)
 
 
 # その他
