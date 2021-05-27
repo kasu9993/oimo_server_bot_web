@@ -40,7 +40,7 @@
 
 
 ## おみくじ機能
-### おみくじを引く
+### 使い方(おみくじを引く)
 ```
 !omikuji
 ```
@@ -53,12 +53,6 @@
 - 凶　...16.0%
 - 大凶...16.0%
 - ????...4.00%
-
-## おみくじ illustrator
-- [いぬいぬのふわ](https://twitter.com/inuinu_0)
-- [ゲラみ](https://twitter.com/nogugera)
-- [おいも](https://twitter.com/oimosan1125)
-
 
 ## 例
 1. おみくじを引く<br>
@@ -78,6 +72,13 @@
 <br>
 おみくじへの暴言はやめてください!!!親が泣いています...
 <br>
+
+## おみくじ illustrator
+- [いぬいぬのふわ](https://twitter.com/inuinu_0)
+- [ゲラみ](https://twitter.com/nogugera)
+- [おいも](https://twitter.com/oimosan1125)
+
+
 
 # その他
 
